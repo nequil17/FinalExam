@@ -1,4 +1,8 @@
 <div ng-controller="singleController">
-
-
+    <div class="videoWrapper">
+        <iframe width="560" height="349" src="{{ movie.trailer }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p>{{ movie.title }}</p>
+    <p>{{ movie.releasedate }}</p>
+    <p>{{ movie.runningtime }}</p>
 </div>

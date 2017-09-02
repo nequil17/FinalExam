@@ -4,11 +4,11 @@ myApp.config(function($routeProvider) {
     $routeProvider
     .when("/", {
         templateUrl : "/views/home.html",
-        controller: 'homeController'
+        
     })
-    .when("/single/:id", {
+    .when("/:id", {
         templateUrl : "/views/single.html",
-        controller: 'singleController'
+        
     });
 });
 
@@ -23,10 +23,14 @@ myApp.controller('homeController', function($http, $scope) {
     
 });
 
-myApp.controller('singleController', function($scope, $http) {
-    $http.get('http://localhost:3000/api/v1/movies/:id')
+myApp.controller('singleController', function($scope, $http, $routeParams, $sce) {
+    var id = $routeParams.id;
+    $http.get('http://localhost:3000/api/v1/movies/' + id)
     .then(function (response) {
-        $rootScope.singlemovie = response.data;
+        var data = response.data;
+        data.trailer = $sce.trustAsResourceUrl(data.trailer);
+        $scope.movie = data;
+
       }, function errorCallback(response) {
         
       });
