@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "title": "the virgin suicides",
+        "director": "sofia coppola",
+        "runningtime": 97,
+        "releasedate": 2000,
+        "trailer": "https://www.youtube.com/embed/fbz4-du3Ayg",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMzE2OTM0OV5BMl5BanBnXkFtZTYwNDIwMDk4._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "lost in translation",
+        "director": "sofia coppola",
+        "runningtime": 102,
+        "releasedate": 2003,
+        "trailer": "https://www.youtube.com/embed/W6iVPCRflQM",
+        "poster": "https://66.media.tumblr.com/037d66c2be3cc20b18cfe50a6b2769ff/tumblr_nl7vi3ttKS1s80h8lo1_500.jpg"
+    },
+    {
+        "id": 3,
+        "title": "the bling ring",
+        "director": "sofia coppola",
+        "runningtime": 90,
+        "releasedate": 2013,
+        "trailer": "https://www.youtube.com/embed/Q4LzhgExvrc",
+        "poster": "https://fiu-assets-2-syitaetz61hl2sa.stackpathdns.com/static/use-media-items/13/12434/full-555x755/567025d1/bling_ring_ver3.jpeg?resolution=0"
+    },
+    {
+        "id": 4,
+        "title": "spring breakers",
+        "director": "harmony korine",
+        "runningtime": 94,
+        "releasedate": 2013,
+        "trailer": "https://www.youtube.com/embed/DmjzSLp_m-A",
+        "poster": "https://i.pinimg.com/736x/66/a7/36/66a736fcdcca247547155cd78e5868fe--s-movies-spring-breakers.jpg"
+    },
+    {
+        "id": 5,
+        "title": "there will be blood",
+        "director": "paul thomas anderson",
+        "runningtime": 158,
+        "releasedate": 2007,
+        "trailer": "https://www.youtube.com/embed/FeSLPELpMeM",
+        "poster": "http://www.craigerscinemacorner.com/Images/There-Will-Be-BloodPOSTER.jpg"
+    },
+    {
+        "id": 6,
+        "title": "boogie nights",
+        "director": "paul thomas anderson",
+        "runningtime": 155,
+        "releasedate": 1997,
+        "trailer": "https://www.youtube.com/embed/pOk0fsMGyck",
+        "poster": "https://socialpsychol.files.wordpress.com/2011/06/boogie-nights-poster.jpg"
+    },
+    {
+        "id": 7,
+        "title": "inherent vice",
+        "director": "paul thomas anderson",
+        "runningtime": 148,
+        "releasedate": 2014,
+        "trailer": "https://www.youtube.com/embed/OUZgOQ186-A",
+        "poster": "http://www.joblo.com/posters/images/full/inherent-vice-us-poster.jpg"
+    },
+    {
+        "id": 8,
+        "title": "the master",
+        "director": "paul thomas anderson",
+        "runningtime": 144,
+        "releasedate": 2012,
+        "trailer": "https://www.youtube.com/embed/fJ1O1vb9AUU",
+        "poster": "https://i.pinimg.com/736x/ae/69/6c/ae696cabb22cb22a524f696ae19200b6.jpg"
+    },
+    {
+        "id": 9,
+        "title": "dogtooth",
+        "director": "yorgos lanthimos",
+        "runningtime": 94,
+        "releasedate": 2009,
+        "trailer": "https://www.youtube.com/embed/kuyFxZ5OHIM?t=6s",
+        "poster": "https://assets.mubi.com/images/notebook/post_images/599/images-w1400.jpg?1277427981"
+    },
+    {
+        "id": 10,
+        "title": "the killing of a sacred deer",
+        "director": "yorgos lanthimos",
+        "runningtime": 109,
+        "releasedate": 2017,
+        "trailer": "https://www.youtube.com/embed/CQFdGfwChtw",
+        "poster": "https://ewedit.files.wordpress.com/2017/05/18451476_10155489925603949_9220370681144095685_o.jpg?w=450"
+    },
+    {
+        "id": 11,
+        "title": "the lobster",
+        "director": "yorgos lanthimos",
+        "runningtime": 119,
+        "releasedate": 2015,
+        "trailer": "https://www.youtube.com/embed/vU29VfayDMw",
+        "poster": "http://www.joblo.com/timthumb.php?src=/posters/images/full/the-lobster-poster1.gif&h=600&q=100"
+    },
+    {
+        "id": 12,
+        "title": "4 months, 3 weeks and 2 days",
+        "director": "cristian mungiu",
+        "runningtime": 113,
+        "releasedate": 2007,
+        "trailer": "https://www.youtube.com/embed/ZisE16JBUMA",
+        "poster": "http://ilarge.lisimg.com/image/4618178/1068full-4-months%2C-3-weeks-and-2-days-poster.jpg"
+    },
+    {
+        "id": 13,
+        "title": "let the right one in",
+        "director": "tomas alfredson",
+        "runningtime": 115,
+        "releasedate": 2008,
+        "trailer": "https://www.youtube.com/embed/ICp4g9p_rgo",
+        "poster": "https://i.pinimg.com/736x/af/89/ae/af89ae1eaf4b5862a7d83c171f083df5--film-poster-poster-art.jpg"
+    },
+    {
+        "id": 14,
+        "title": "george washington",
+        "director": "david gordon green",
+        "runningtime": 94,
+        "releasedate": 2000,
+        "trailer": "https://www.youtube.com/embed/-yiOzYm-yCY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/George_Washington_Film.jpg"
+    },
+    {
+        "id": 15 ,
+        "title": "all the real girls",
+        "director": "david gordon green",
+        "runningtime": 108,
+        "releasedate": 2003,
+        "trailer": "https://www.youtube.com/embed/GgrRjQwzX9w",
+        "poster": "https://i.pinimg.com/originals/6c/54/e8/6c54e8944e2642018a6bab934aef2b18.jpg"
+    },
+    {
+        "id": 16,
+        "title": "undertow",
+        "director": "david gordon green",
+        "runningtime": 108,
+        "releasedate": 2004,
+        "trailer": "https://www.youtube.com/embed/8rq_5CmE0iY",
+        "poster": "https://www.movieposter.com/posters/archive/main/105/MPW-52836"
+    },
+    {
+        "id": 17,
+        "title": "elephant",
+        "director": "gus van sant",
+        "runningtime": 81,
+        "releasedate": 2003,
+        "trailer": "https://www.youtube.com/embed/htlsOf3PnGY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Elephant_movie_poster.jpg"
+    },
+    {
+        "id": 18,
+        "title": "the girlfriend experience",
+        "director": "steven soderbergh",
+        "runningtime": 77,
+        "releasedate": 2009,
+        "trailer": "https://www.youtube.com/embed/4lriZ2_F7k4",
+        "poster": "https://filmbor.com/wp-content/uploads/2016/01/The-Girlfriend-Experience.jpg"
+    },
+    {
+        "id": 19,
+        "title": "fargo",
+        "director": "the coen brothers",
+        "runningtime": 98,
+        "releasedate": 1996,
+        "trailer": "https://www.youtube.com/embed/h2tY82z3xXU",
+        "poster": "https://fanart.tv/fanart/movies/275/movieposter/fargo-533f83af63e7b.jpg"
+    },
+    {
+        "id": 21,
+        "title": "no country for old men",
+        "director": "the coen brothers",
+        "runningtime": 122,
+        "releasedate": 2007,
+        "trailer": "https://www.youtube.com/embed/38A__WT3-o0",
+        "poster": "https://i.pinimg.com/736x/0b/b3/66/0bb36691b64f7f5056274490ea2489d6--country-men-no-country-for-old-men-poster.jpg"
+    },
+    {
+        "id": 25,
+        "title": "ex machina",
+        "director": "alex garland",
+        "runningtime": 108,
+        "releasedate": 2014,
+        "trailer": "https://www.youtube.com/embed/bggUmgeMCdc",
+        "poster": "http://www.joblo.com/timthumb.php?src=/posters/images/full/ex-machina-poster.jpg&h=600&q=100"
+    },
+    {
+        "id": 26,
+        "title": "pan's labyrinth",
+        "director": "guillermo del toro",
+        "runningtime": 118,
+        "releasedate": 2007,
+        "trailer": "https://www.youtube.com/embed/EXe5a9pBNzg",
+        "poster": "https://20ui41tp7v127j03rcnp97oh-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/matthewgriffin_panslabyrnith700.jpg"
+    },
+    {
+        "id": 29,
+        "title": "full metal jacket",
+        "director": "stanley kubrick",
+        "runningtime": 116,
+        "releasedate": 1987,
+        "trailer": "https://www.youtube.com/embed/x9f6JaaX7Wg",
+        "poster": "https://www.movieposter.com/posters/archive/main/105/MPW-52900"
+    },
+    {
+        "id": 30,
+        "title": "annie hall",
+        "director": "woody allen",
+        "runningtime": 93,
+        "releasedate": 1977,
+        "trailer": "https://www.youtube.com/embed/OqVgCfZX-yE",
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/51kbsRw9ATL.jpg"
+    }
+]
